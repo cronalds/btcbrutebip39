@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5be658c10e7539c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "517c258484e77bcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0ab04e9c181eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Monero Seed Standards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monero Seed Standards"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec20df551b4c35c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db44df5c1e20f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076039366276a654",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0525e0afb649e90b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "937677bcd0c8de5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d13f5251ffc87046",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40aa83f0632944c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "583f7ae63c109965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Bitcoin Wallet Popularity by Year 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "67747cc0440661b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/Bitcoin Wallet Popularity by Year 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c11ff1e3c9e91fd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8cb8d5cc5e5cf7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a9cc75c080592fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Bitcoin Wallet Popularity by Year 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0e0ab04e9c181eb2",
+  "lastOpenFiles": [
+    "Clippings/Bitcoin wallet keys explained.md",
+    "Clippings/Monero Seed Standards.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 6.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 5.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 4.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 3.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 2.md",
+    "Clippings/Download Bitcoin Blocks With Node.js 1.md",
+    "Clippings/Download Bitcoin Blocks With Node.js.md",
+    "Clippings/Compare BTC Address Types 1.md",
+    "Clippings/Compare BTC Address Types.md",
+    "Clippings/Generate BTC Address JavaScript.md",
+    "Clippings/Derivation Path Review 1.md",
+    "Clippings/Derivation Path Review.md",
+    "Clippings/JavaScript File IO 2.md",
+    "Clippings/Bitcoin Wallet Popularity by Year 1.md",
+    "Clippings/BIP39 Seed Converters 1.md",
+    "Clippings/JavaScript File IO 1.md",
+    "Clippings/JavaScript File IO.md",
+    "Clippings/BIP39 Seed Converters.md",
+    "Clippings/Bitcoin Wallet Popularity by Year.md",
+    "Clippings",
+    "Welcome.md"
+  ]
+}

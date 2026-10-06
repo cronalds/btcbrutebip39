@@ -1,0 +1,21 @@
+{
+  "name": "btcbrutebip39",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bip32": "^5.0.1",
+    "bip32-utils": "^0.11.1",
+    "bip39": "^3.1.0",
+    "bitcoin-core": "^5.0.0",
+    "cheerio": "^1.2.0",
+    "sqlite3": "^6.0.1",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
